@@ -1,0 +1,23 @@
+[{
+  "_id": {
+    "$oid": "61bbeef106656a2141d6a72e"
+  },
+  "img_path": "../images/",
+  "name": "popeyes",
+  "type": "western"
+},{
+  "_id": {
+    "$oid": "61bbefa406656a2141d6a72f"
+  },
+  "img_path": "../images/",
+  "name": "itacho",
+  "type": "japanese"
+},{
+  "_id": {
+    "$oid": "61befa6bd5068459edc6a734"
+  },
+  "name": "kfc",
+  "type": "fastfood",
+  "img_path": "asdas",
+  "__v": 0
+}]
